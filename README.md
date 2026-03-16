@@ -46,6 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+<img width="1920" height="1080" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/143aca8f-d4e6-4fe2-bbd1-44a6402beb93" />
 
 
 ### Name:vikash.s
